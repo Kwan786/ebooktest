@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101192129014",
+    "project_id": "groupprojectebook",
+    "storage_bucket": "groupprojectebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101192129014:android:182d637e3208281b4b4fd7",
+        "android_client_info": {
+          "package_name": "com.example.ebookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZVeztrEcAorVa-CJxPXfRLTnKl8s9KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101192129014:android:5e847b066d63b14d4b4fd7",
+        "android_client_info": {
+          "package_name": "com.example.ebooktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZVeztrEcAorVa-CJxPXfRLTnKl8s9KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
